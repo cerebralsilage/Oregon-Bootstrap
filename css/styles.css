@@ -7558,6 +7558,10 @@ textarea.form-control-lg {
   margin-bottom: 3rem !important;
 }
 
+.mb-7 {
+  margin-bottom: 7rem !important;
+}
+
 .mb-auto {
   margin-bottom: auto !important;
 }
@@ -11475,7 +11479,6 @@ body {
 
 #mainNav {
   min-height: 3.5rem;
-  background: linear-gradient(to bottom, #02431d 1%,#00ad05 50%,#02431d 98%);
 }
 #mainNav .navbar-toggler {
   font-size: 80%;
@@ -11527,10 +11530,10 @@ body {
     background: linear-gradient(to bottom, #02431d 1%,#00ad05 50%,#02431d 98%);
   }
   #mainNav.navbar-shrink .navbar-brand {
-    color: #000;
+    color: color: #ffffff90;
   }
   #mainNav.navbar-shrink .nav-link {
-    color: #000;
+    color: color: #ffffff90;
     padding: 1.5rem 1.5rem 1.25rem;
     border-bottom: 0.25rem solid transparent;
   }
@@ -11608,7 +11611,7 @@ body {
 .about-section {
   padding-top: 10rem;
   background: linear-gradient(to bottom, #000 0%, rgba(0, 0, 0, 0.9) 75%, rgba(0, 0, 0, 0.8) 100%);
-  padding-bottom: 7%;
+  padding-bottom: 8%;
 }
 .about-section p {
   margin-bottom: 5rem;
