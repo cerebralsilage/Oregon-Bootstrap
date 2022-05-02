@@ -4559,7 +4559,7 @@ textarea.form-control-lg {
   color: rgba(0, 0, 0, 0.9);
 }
 .navbar-light .navbar-nav .nav-link {
-  color: rgba(0, 0, 0, 0.55);
+  color: #ffffff90;
 }
 .navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .nav-link:focus {
   color: rgba(0, 0, 0, 0.7);
@@ -11483,14 +11483,14 @@ body {
 #mainNav .navbar-toggler {
   font-size: 80%;
   padding: 0.75rem;
-  color: #000;
-  border: 1px solid #000;
+  color: #ffffff90;
+  border: 1px solid #ffffff90;
 }
 #mainNav .navbar-toggler:focus {
   outline: none;
 }
 #mainNav .navbar-brand {
-  color: #000;
+  color: #ffffff90;
   font-weight: 700;
   padding: 0.9rem 0;
 }
@@ -11508,7 +11508,7 @@ body {
     padding-top: 0;
     padding-bottom: 0;
     border-bottom: none;
-    background-color: transparent;
+    background: transparent !important;
     transition: background-color 0.3s ease-in-out;
   }
   #mainNav .navbar-brand {
@@ -11527,7 +11527,7 @@ body {
     color: #fff;
   }
   #mainNav.navbar-shrink {
-    background: linear-gradient(to bottom, #02431d 1%,#00ad05 50%,#02431d 98%);
+    background: linear-gradient(to bottom, #02431d 1%,#00ad05 50%,#02431d 98%) !important;
   }
   #mainNav.navbar-shrink .navbar-brand {
     color: color: #ffffff90;
